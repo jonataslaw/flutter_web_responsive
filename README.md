@@ -1,12 +1,21 @@
 # flutter_web_example
 
-A new Flutter project.
+A Beauty and responsible flutter web concept
 
 ## Getting Started
+clone this repository:
+´´´
+git clone https://github.com/jonataslaw/flutter_web_responsible
+´´´
+And run it
+´´´
+flutter run
+´´´
+## Demonstration:
 
-
-![](flutter_web.gif)
 ![](flutter_web.png)
+![](flutter_web.gif)
+
 
 This project is a starting point for a Flutter application.
 
