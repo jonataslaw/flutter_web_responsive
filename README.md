@@ -4,13 +4,13 @@ A Beauty and responsible flutter web concept
 
 ## Getting Started
 clone this repository:
-´´´
+```
 git clone https://github.com/jonataslaw/flutter_web_responsible
-´´´
+```
 And run it
-´´´
+```
 flutter run
-´´´
+```
 ## Demonstration:
 
 ![](flutter_web.png)
