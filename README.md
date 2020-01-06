@@ -1,6 +1,6 @@
 # flutter_web_example
 
-A Beauty and responsible flutter web concept
+A Beauty and responsive flutter web concept
 
 ## Getting Started
 clone this repository:
